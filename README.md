@@ -1,3 +1,2 @@
-# Hello-World
-Initial repository to get started with Git.
-Hoping to get really good with GIT!
+# Portfolio
+Group of small side projects to build my coding abilities. 
